@@ -8,6 +8,11 @@
 
 <h2>Approach</h2> 
 
+We use BufferedReader from java.io to read csv.
+We use hibernate to persist the data.
+
 <h2>Design</h2> 
+We use The Great Circle Distance Formula for calculating 5 nearest cities of a given city.
 
 <h2>How to Run and Analysis</h2>
+ALl the code is tested and run on Netbeans IDE installed on Windows 10 platform.
